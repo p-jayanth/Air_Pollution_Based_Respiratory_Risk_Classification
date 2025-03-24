@@ -1,0 +1,560 @@
+S.No.,State,City,Station Name,Current AQI value
+1,Andaman and Nicobar,Sri Vijaya Puram,"Police Line, Sri Vijaya Puram - ANPCC",84.3
+2,Andhra Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",33
+3,,Anantapur,"Gulzarpet, Anantapur - APPCB",66
+4,,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",91
+5,,Kadapa,"Yerramukkapalli, Kadapa - APPCB",39
+6,,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",66
+7,,Tirumala,"Toll Gate, Tirumala - APPCB (Formerly known as Tirumala, Tirupati - APPCB)",52
+8,,Tirupati,"Vaikuntapuram, Tirupati - APPCB",84.3
+9,,Vijayawada,"HB Colony, Vijayawada - APPCB",47
+10,,Vijayawada,"Kanuru, Vijayawada - APPCB",47
+11,,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",73
+12,,Vijayawada,"Rajiv Nagar, Vijayawada - APPCB",49
+13,,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",98
+14,Arunachal Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",84.3
+15,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",84.3
+16,,Guwahati,"IITG, Guwahati - PCBA",186
+17,,Guwahati,"LGBI Airport, Guwahati - PCBA",233
+18,,Guwahati,"Pan Bazaar, Guwahati - PCBA",83
+19,,Guwahati,"Railway Colony, Guwahati - PCBA",191
+20,,Nagaon,"Christianpatty, Nagaon - PCBA",84.3
+21,,Nalbari,"Bata Chowk, Nalbari - PCBA",84.3
+22,,Silchar,"Tarapur, Silchar - PCBA",64
+23,,Sivasagar,"Girls College, Sivasagar - PCBA",44
+24,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",88
+25,,Arrah,"New DM Office, Arrah - BSPCB",89
+26,,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",136
+27,,Begusarai,"Lohiyanagar, Begusarai - BSPCB",120
+28,,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",84.3
+29,,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",75
+30,,,"Mayaganj, Bhagalpur - BSPCB",109
+31,,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",108
+32,,Buxar,"Charitra Van, Buxar - BSPCB",126
+33,,Chhapra,"Darshan Nagar, Chhapra - BSPCB",84.3
+34,,Darbhanga,"Town Hall - Lal Bagh, Darbhanga - BSPCB",84.3
+35,,Gaya,"Collectorate, Gaya - BSPCB",84.3
+36,,Gaya,"Kareemganj, Gaya - BSPCB",149
+37,,Gaya,"SFTI Kusdihra, Gaya - BSPCB",69
+38,,Hajipur,"Industrial Area, Hajipur - BSPCB",181
+39,,Katihar,"Mirchaibari, Katihar - BSPCB",84.3
+40,,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",90
+41,,Manguraha,"Forest Rest House, Manguraha - BSPCB",84.3
+42,,Motihari,"Gandak Colony, Motihari - BSPCB",80
+43,,Munger,"Town Hall, Munger - BSPCB",103
+44,,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",190
+45,,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",84.3
+46,,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",89
+47,,Patna,"DRM Office Danapur, Patna - BSPCB",84.3
+48,,Patna,"Govt. High School Shikarpur, Patna - BSPCB",150
+49,,Patna,"IGSC Planetarium Complex, Patna - BSPCB",74
+50,,Patna,"Muradpur, Patna - BSPCB",238
+51,,Patna,"Rajbansi Nagar, Patna - BSPCB",115
+52,,Patna,"Samanpura, Patna - BSPCB",151
+53,,Purnia,"Mariam Nagar, Purnia - BSPCB",62
+54,,Rajgir,"Dangi Tola, Rajgir - BSPCB",93
+55,,Saharsa,"Police Line, Saharsa - BSPCB",83
+56,,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",69
+57,,Sasaram,"Dada Peer, Sasaram - BSPCB",159
+58,,Siwan,"Chitragupta Nagar, Siwan - BSPCB",84.3
+59,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",84
+60,,Chandigarh,"Sector-25, Chandigarh - CPCC",98
+61,,Chandigarh,"Sector-53, Chandigarh - CPCC",84.3
+62,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",76
+63,,,"Civic Center, Bhilai - Bhilai Steel Plant",67
+64,,,"Hathkhoj, Bhilai - CECB",112
+65,,Bilaspur,"Mangala, Bilaspur - NTPC",74
+66,,Chhal,"Nawapara SECL Colony, Chhal - CECB",104
+67,,Korba,"Rampur, Korba - CECB",105
+68,,,"Urja Nagar, Korba - CECB",89
+69,,Kunjemura,"OP Jindal School, Kunjemura - CECB",134
+70,,Milupara,"Govt. Higher Secondary School, Milupara - CECB",118
+71,,Raipur,"AIIMS, Raipur - CECB",74
+72,,,"Bhatagaon New ISBT, Raipur - CECB",84.3
+73,,,"Krishak Nagar, Raipur - CECB",65
+74,,,"Siltara Phase-II, Raipur - CECB",257
+75,,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",84.3
+76,Delhi,Delhi,"Alipur, Delhi - DPCC",150
+77,,Delhi,"Anand Vihar, Delhi - DPCC",158
+78,,Delhi,"Ashok Vihar, Delhi - DPCC",126
+79,,Delhi,"Aya Nagar, Delhi - IMD",105
+80,,Delhi,"Bawana, Delhi - DPCC",133
+81,,Delhi,"Burari Crossing, Delhi - IMD",84.3
+82,,Delhi,"CRRI Mathura Road, Delhi - IMD",122
+83,,Delhi,"Chandni Chowk, Delhi - IITM",121
+84,,Delhi,"DTU, Delhi - CPCB",107
+85,,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",109
+86,,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",120
+87,,Delhi,"IGI Airport (T3), Delhi - IMD",96
+88,,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",158
+89,,Delhi,"ITO, Delhi - CPCB",104
+90,,Delhi,"Jahangirpuri, Delhi - DPCC",144
+91,,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",85
+92,,Delhi,"Lodhi Road, Delhi - IITM",96
+93,,Delhi,"Lodhi Road, Delhi - IMD",93
+94,,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",118
+95,,Delhi,"Mandir Marg, Delhi - DPCC",129
+96,,Delhi,"Mundka, Delhi - DPCC",146
+97,,Delhi,"NSIT Dwarka, Delhi - CPCB",104
+98,,Delhi,"Najafgarh, Delhi - DPCC",118
+99,,Delhi,"Narela, Delhi - DPCC",110
+100,,Delhi,"Nehru Nagar, Delhi - DPCC",100
+101,,Delhi,"North Campus, DU, Delhi - IMD",98
+102,,Delhi,"Okhla Phase-2, Delhi - DPCC",121
+103,,Delhi,"Patparganj, Delhi - DPCC",131
+104,,Delhi,"Punjabi Bagh, Delhi - DPCC",106
+105,,Delhi,"Pusa, Delhi - DPCC",113
+106,,Delhi,"Pusa, Delhi - IMD",81
+107,,Delhi,"R K Puram, Delhi - DPCC",84.3
+108,,Delhi,"Rohini, Delhi - DPCC",103
+109,,Delhi,"Shadipur, Delhi - CPCB",84.3
+110,,Delhi,"Sirifort, Delhi - CPCB",138
+111,,Delhi,"Sonia Vihar, Delhi - DPCC",84.3
+112,,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",92
+113,,Delhi,"Vivek Vihar, Delhi - DPCC",173
+114,,Delhi,"Wazirpur, Delhi - DPCC",134
+115,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",177
+116,,,"Gyaspur, Ahmedabad - IITM",143
+117,,,"Maninagar, Ahmedabad - GPCB",100
+118,,,"Raikhad, Ahmedabad - IITM",113
+119,,,"Rakhial, Ahmedabad - IITM",119
+120,,,"SAC ISRO Bopal, Ahmedabad - IITM",84.3
+121,,,"SAC ISRO Satellite, Ahmedabad - IITM",84.3
+122,,,"SVPI Airport Hansol, Ahmedabad - IITM",217
+123,,,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",98
+124,,Ankleshwar,"GIDC, Ankleshwar - GPCB",117
+125,,Gandhinagar,"GIFT City, Gandhinagar - IITM",138
+126,,,"IIPHG Lekawada, Gandhinagar - IITM",101
+127,,,"Sector-10, Gandhinagar - GPCB",70
+128,,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",84.3
+129,,Surat,"Science Center, Surat - SMC",64
+130,,Vapi,"Phase-1 GIDC, Vapi - GPCB",113
+131,,Vatva,"Phase-4 GIDC, Vatva - GPCB",112
+132,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",84.3
+133,,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",84.3
+134,,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",84.3
+135,,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",84.3
+136,,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",54
+137,,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",84.3
+138,,Faridabad,"New Industrial Town, Faridabad - HSPCB",84.3
+139,,,"Sector 11, Faridabad - HSPCB",54
+140,,,"Sector 30, Faridabad - HSPCB",112
+141,,,"Sector- 16A, Faridabad - HSPCB",84.3
+142,,Fatehabad,"Huda Sector, Fatehabad - HSPCB",84.3
+143,,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",97
+144,,,"Sector-51, Gurugram - HSPCB",105
+145,,,"Teri Gram, Gurugram - HSPCB",51
+146,,,"Vikas Sadan, Gurugram - HSPCB",84.3
+147,,Hisar,"Urban Estate-II, Hisar - HSPCB",84.3
+148,,Jind,"Police Lines, Jind - HSPCB",84.3
+149,,Kaithal,"Rishi Nagar, Kaithal - HSPCB",84.3
+150,,Karnal,"Sector-12, Karnal - HSPCB",84.3
+151,,Kurukshetra ,"Sector-7, Kurukshetra - HSPCB",84.3
+152,,Mandikhera,"General Hospital, Mandikhera - HSPCB",84.3
+153,,Manesar,"Sector-2 IMT, Manesar - HSPCB",84.3
+154,,Narnaul,"Shastri Nagar, Narnaul - HSPCB",84.3
+155,,Palwal ,"Shyam Nagar, Palwal - HSPCB",84.3
+156,,Panchgaon,"Amity University, Panchgaon - IITM",157
+157,,Panchkula,"Sector-6, Panchkula - HSPCB ",84.3
+158,,Panipat,"Sector-18, Panipat - HSPCB",84.3
+159,,Rohtak,"MD University, Rohtak - HSPCB",84.3
+160,,Sirsa,"F-Block, Sirsa - HSPCB",84.3
+161,,Sonipat,"Murthal, Sonipat - HSPCB",84.3
+162,,Yamuna Nagar,"Gobind Pura, Yamuna Nagar - HSPCB",84.3
+163,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",181
+164,Jammu and Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",84.3
+165,Jharkhand,Dhanbad,"Kalakusuma, Dhanbad - DMC",84.3
+166,,,"Sardar Patel Nagar, Dhanbad - JSPCB",135
+167,,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",84.3
+168,,Pathardih,"Mohalbani Ghat, Pathardih - DMC",84.3
+169,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",84.3
+170,,Belgaum,"Ramteerth Nagar, Belgaum - KSPCB",84.3
+171,,Bengaluru,"BTM Layout, Bengaluru - CPCB",62
+172,,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",84.3
+173,,,"Bapuji Nagar, Bengaluru - KSPCB",68
+174,,,"City Railway Station, Bengaluru - KSPCB",96
+175,,,"Hebbal, Bengaluru - KSPCB",61
+176,,,"Hombegowda Nagar, Bengaluru - KSPCB",67
+177,,,"Jayanagar 5th Block, Bengaluru - KSPCB",68
+178,,,"Jigani, Bengaluru - KSPCB",84.3
+179,,,"Kasturi Nagar, Bengaluru - KSPCB",142
+180,,,"Peenya, Bengaluru - CPCB",70
+181,,,"RVCE-Mailasandra, Bengaluru - KSPCB",56
+182,,,"Sanegurava Halli, Bengaluru - KSPCB",34
+183,,,"Shivapura_Peenya, Bengaluru - KSPCB",84.3
+184,,,"Silk Board, Bengaluru - KSPCB",42
+185,,Bidar,"Naubad, Bidar - KSPCB",84.3
+186,,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",49
+187,,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",53
+188,,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",84.3
+189,,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",84.3
+190,,Dharwad,"Kalabhavan, Dharwad - KSPCB",62
+191,,Gadag,"Panchal Nagar, Gadag - KSPCB",84.3
+192,,Hassan,"B.Katihalli, Hassan - KSPCB",84.3
+193,,Haveri,"Ashwini Nagar, Haveri - KSPCB",84.3
+194,,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",84.3
+195,,,"Lingaraj Nagar, Hubballi - KSPCB",50
+196,,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",84.3
+197,,,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",52
+198,,Karwar,"KHB Colony, Karwar - KSPCB",84.3
+199,,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",84.3
+200,,Koppal,"Diwator Nagar, Koppal - KSPCB",52
+201,,Madikeri,"Stuart Hill, Madikeri - KSPCB",32
+202,,Mangalore,"Kadri, Mangalore - KSPCB",90
+203,,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",58
+204,,Raichur,"Haji Colony, Raichur - KSPCB",123
+205,,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",52
+206,,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",51
+207,,Tumakuru,"Thimmalapura, Tumakuru - KSPCB",126
+208,,Udupi,"Brahmagiri, Udupi - KSPCB",77
+209,,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",84.3
+210,,Yadgir,"Collector Office, Yadgir - KSPCB",62
+211,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",84.3
+212,,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",84.3
+213,,Kannur,"Thavakkara, Kannur - Kerala PCB",54
+214,,Kochi,"Vyttila, Kochi - Kerala PCB",84.3
+215,,Kollam,"Polayathode, Kollam - Kerala PCB",84.3
+216,,Kozhikode,"Palayam, Kozhikode - Kerala PCB",84.3
+217,,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",67
+218,,,"Plammoodu, Thiruvananthapuram - Kerala PCB",94
+219,,Thrissur,"Corporation Ground, Thrissur - Kerala PCB",63
+220,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",108
+221,,,"Paryavaran Parisar, Bhopal - MPPCB",126
+222,,,"T T Nagar, Bhopal - MPPCB",129
+223,,Damoh,"Shrivastav Colony, Damoh - MPPCB",50
+224,,Dewas,"Bhopal Chauraha, Dewas - MPPCB",112
+225,,Gwalior,"City Center, Gwalior - MPPCB",113
+226,,,"Deen Dayal Nagar, Gwalior - MPPCB",124
+227,,,"Maharaj Bada, Gwalior - MPPCB",109
+228,,,"Phool Bagh, Gwalior - Mondelez Ind. Food",84.3
+229,,Indore,"Airport Area, Indore - IMC",66
+230,,,"Chhoti Gwaltoli, Indore - MPPCB",116
+231,,,"Maguda Nagar, Indore - IMC",84.3
+232,,,"Regional Park, Indore - IMC",84.3
+233,,,"Residency Area, Indore - IMC",84.3
+234,,,"Vijay Nagar Scheme-78, Indore - Glenmark",52
+235,,Jabalpur,"Govindh Bhavan Colony, Jabalpur - JMC",54
+236,,,"Gupteshwar, Jabalpur - JMC",62
+237,,,"Marhatal, Jabalpur - MPPCB",91
+238,,,"Suhagi, Jabalpur - JMC",80
+239,,Katni,"Gole Bazar, Katni - MPPCB",109
+240,,Maihar,"Sahilara, Maihar - KJS Cements",56
+241,,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",204
+242,,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",109
+243,,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",121
+244,,Sagar,"Civil Lines, Sagar - MPPCB",84
+245,,,"Deen Dayal Nagar, Sagar - MPPCB",112
+246,,Satna,"Bandhavgar Colony, Satna - Birla Cement",75
+247,,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",172
+248,,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",65
+249,Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",152
+250,,Akola,"Ramdaspeth, Akola - MPCB",104
+251,,Amravati,"Shivneri Colony, Amravati - MPCB",107
+252,,,"Shri Shivaji Science College, Amaravati - MPCB",122
+253,,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",94
+254,,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",107
+255,,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",85
+256,,Badlapur,"Katrap, Badlapur - MPCB",120
+257,,Belapur,"CBD Belapur, Belapur - MPCB",129
+258,,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",107
+259,,Boisar,"Khaira, Boisar - MPCB",79
+260,,Chandrapur,"Chauhan Colony, Chandrapur - MPCB",141
+261,,,"MIDC Khutala, Chandrapur - MPCB",75
+262,,Dhule,"Deopur, Dhule - MPCB",85
+263,,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",86
+264,,Jalna,"Old MIDC, Jalna - MPCB",84.3
+265,,Kalyan,"Khadakpada, Kalyan - MPCB",125
+266,,,"Pimpleshwar Mandir, Kalyan - MPCB",98
+267,,Kolhapur,"Shivaji University, Kolhapur - MPCB",86
+268,,,"Sinchan Bhavan, Kolhapur - MPCB",63
+269,,Latur,"Sawe Wadi, Latur - MPCB",87
+270,,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",127
+271,,Malegaon,"Mahesh Nagar, Malegaon - MPCB",101
+272,,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",122
+273,,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",84.3
+274,,,"Bandra Kurla Complex, Mumbai - MPCB",140
+275,,,"Bandra, Mumbai - MPCB",84.3
+276,,,"Borivali East, Mumbai - IITM",139
+277,,,"Borivali East, Mumbai - MPCB",88
+278,,,"Byculla, Mumbai - BMC",97
+279,,,"Chakala-Andheri East, Mumbai - IITM",84.3
+280,,,"Chembur, Mumbai - MPCB",106
+281,,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",96
+282,,,"Colaba, Mumbai - MPCB",85
+283,,,"Deonar, Mumbai - IITM",177
+284,,,"Ghatkopar, Mumbai - BMC",110
+285,,,"Kandivali East, Mumbai - MPCB",106
+286,,,"Kandivali West, Mumbai - BMC",84.3
+287,,,"Kherwadi_Bandra East, Mumbai - MPCB",93
+288,,,"Khindipada-Bhandup West, Mumbai - IITM",94
+289,,,"Kurla, Mumbai - MPCB",118
+290,,,"Malad West, Mumbai - IITM",119
+291,,,"Mazgaon, Mumbai - IITM",123
+292,,,"Mindspace-Malad West, Mumbai - MPCB",110
+293,,,"Mulund West, Mumbai - MPCB",85
+294,,,"Navy Nagar-Colaba, Mumbai - IITM",123
+295,,,"Powai, Mumbai - MPCB",117
+296,,,"Sewri, Mumbai - BMC",84.3
+297,,,"Shivaji Nagar, Mumbai - BMC",104
+298,,,"Siddharth Nagar-Worli, Mumbai - IITM",117
+299,,,"Sion, Mumbai - MPCB",96
+300,,,"Vasai West, Mumbai - MPCB",102
+301,,,"Vile Parle West, Mumbai - MPCB",112
+302,,,"Worli, Mumbai - MPCB",109
+303,,Nagpur,"Ambazari, Nagpur - MPCB",127
+304,,,"Mahal, Nagpur - MPCB",192
+305,,,"Opp GPO Civil Lines, Nagpur - MPCB",122
+306,,,"Ram Nagar, Nagpur - MPCB",115
+307,,Nanded,"Sneh Nagar, Nanded - MPCB",84.3
+308,,Nashik,"Gangapur Road, Nashik - MPCB",85
+309,,,"Hirawadi, Nashik - MPCB",122
+310,,,"MIDC Ambad, Nashik - MPCB",104
+311,,,"Pandav Nagari, Nashik - MPCB",100
+312,,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",84.3
+313,,,"Kopripada-Vashi, Navi Mumbai - MPCB",83
+314,,,"Mahape, Navi Mumbai - MPCB",118
+315,,,"Nerul, Navi Mumbai - MPCB",84.3
+316,,,"Sanpada, Navi Mumbai - MPCB",84.3
+317,,,"Sector-19A Nerul, Navi Mumbai - IITM",84.3
+318,,,"Sector-2E Kalamboli, Navi Mumbai - MPCB",115
+319,,,"Tondare-Taloja, Navi Mumbai - MPCB",106
+320,,Parbhani,"Masoom Colony, Parbhani - MPCB",115
+321,,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",79
+322,,,"Park Street Wakad, Pimpri Chinchwad - MPCB",101
+323,,,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",138
+324,,,"Thergaon, Pimpri Chinchwad - MPCB",135
+325,,Pune,"Alandi, Pune - IITM",84.3
+326,,,"Bhosari, Pune - IITM",188
+327,,,"Bhumkar Nagar, Pune - IITM",161
+328,,,"Dhankawadi, Pune - IITM",176
+329,,,"Hadapsar, Pune - IITM",102
+330,,,"Karve Road, Pune - MPCB",109
+331,,,"Katraj Dairy, Pune - MPCB",106
+332,,,"MIT-Kothrud, Pune - IITM",84.3
+333,,,"Mhada Colony, Pune - IITM",84.3
+334,,,"Panchawati_Pashan, Pune - IITM",80
+335,,,"Revenue Colony-Shivajinagar, Pune - IITM",176
+336,,,"Savitribai Phule Pune University, Pune - MPCB",122
+337,,,"Transport Nagar-Nigdi, Pune - IITM",115
+338,,Sangli,"Vijay Nagar, Sangli - MPCB",123
+339,,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",135
+340,,,"Ratandeep Housing Society, Solapur - MPCB",84
+341,,,"Solapur, Solapur - MPCB",86
+342,,Thane,"Kasarvadavali, Thane - MPCB",115
+343,,,"Upvan Fort, Thane - MPCB",72
+344,,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",113
+345,,Virar,"Bolinj, Virar - MPCB",90
+346,Manipur,Imphal,"DM College of Science, Imphal - Manipur PCB",105
+347,,,"Manipur University, Imphal - Manipur PCB",84.3
+348,Meghalaya,Shillong,"JN Stadium, Shillong - Meghalaya PCB",84.3
+349,,,"Lumpyngngad, Shillong - Meghalaya PCB",84.3
+350,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",77
+351,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",84.3
+352,Odisha,Angul,"Hakimapada, Angul - OSPCB",158
+353,,Balasore,"Kalidaspur, Balasore - OSPCB",118
+354,,Barbil,"Forest Office, Barbil - OSPCB",169
+355,,Baripada,"Meher Colony, Baripada - OSPCB",84.3
+356,,Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",118
+357,,,"Patia, Bhubaneswar - OSPCB",90
+358,,Bileipada,"Tata Township, Bileipada - OSPCB",152
+359,,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",142
+360,,Byasanagar,"Ferro Chrome Colony, Byasanagar - OSPCB",124
+361,,Cuttack,"CDA Area, Cuttack - OSPCB",107
+362,,Keonjhar,"Jagamohanpur, Keonjhar - OSPCB",85
+363,,Nayagarh,"Dabuna, Nayagarh - OSPCB",140
+364,,Rairangpur,"Divisional Forest Office, Rairangpur - OSPCB",105
+365,,Rourkela,"Fertilizer Township, Rourkela - OSPCB",202
+366,,,"Raghunathpali, Rourkela - OSPCB",246
+367,,,"Sector-2, Rourkela - OSPCB",222
+368,,Suakati,"OMC Colony, Suakati - OSPCB",117
+369,,Talcher,"Talcher Coalfields,Talcher - OSPCB",210
+370,,Tensa,"Barsua Iron Ore Mines, Tensa - OSPCB",109
+371,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",28
+372,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",55
+373,,Bathinda,"Hardev Nagar, Bathinda - PPCB",41
+374,,Jalandhar,"Civil Line, Jalandhar - PPCB",64
+375,,Khanna,"Kalal Majra, Khanna - PPCB",62
+376,,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",56
+377,,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",84.3
+378,,Patiala,"Model Town, Patiala - PPCB",67
+379,,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",67
+380,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",81
+381,,Alwar,"Moti Doongri, Alwar - RSPCB",60
+382,,Banswara,"Rati Talai, Banswara - RSPCB",123
+383,,Baran,"Bamboliya, Baran - RSPCB",105
+384,,Barmer,"Railway Colony, Barmer - RSPCB",85
+385,,Bharatpur,"Krishna Nagar, Bharatpur - RSPCB",89
+386,,Bhilwara,"Pratap Nagar, Bhilwara - RSPCB",84.3
+387,,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",125
+388,,,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",116
+389,,Bikaner,"MM Ground, Bikaner - RSPCB",99
+390,,Bundi,"New Colony, Bundi - RSPCB",129
+391,,Chittorgarh,"Shastri Nagar, Chittorgarh - RSPCB",131
+392,,Churu,"Subash Chowk, Churu - RSPCB",118
+393,,Dausa,"Khatikan Mohalla, Dausa - RSPCB",84.3
+394,,Dholpur,"Raja Ganj, Dholpur - RSPCB",204
+395,,Dungarpur,"Bhoiwada, Dungarpur - RSPCB",105
+396,,Hanumangarh,"Housing Board, Hanumangarh - RSPCB",85
+397,,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",83
+398,,,"Mansarovar Sector-12, Jaipur - RSPCB",107
+399,,,"Police Commissionerate, Jaipur - RSPCB",107
+400,,,"RIICO Sitapura, Jaipur - RSPCB",151
+401,,,"Sector-2 Murlipura, Jaipur - RSPCB",96
+402,,,"Shastri Nagar, Jaipur - RSPCB",101
+403,,Jaisalmer,"Sadar Bazar, Jaisalmer - RSPCB",86
+404,,Jalore,"Mudtra Sili, Jalore - RSPCB",101
+405,,Jhalawar,"Rajlaxmi Nagar, Jhalawar - RSPCB",89
+406,,Jhunjhunu,"Indra Nagar, Jhunjhunu - RSPCB",100
+407,,Jodhpur,"Collectorate, Jodhpur - RSPCB",104
+408,,,"Digari Kalan, Jodhpur - RSPCB",102
+409,,,"Jhalamand, Jodhpur - RSPCB",160
+410,,,"Mandor, Jodhpur - RSPCB",100
+411,,,"Samrat Ashok Udhyan, Jodhpur - RSPCB",103
+412,,Karauli,"Satyawati Vihar, Karauli - RSPCB",109
+413,,Kota,"Dhanmandi, Kota - RSPCB",132
+414,,,"Nayapura, Kota - RSPCB",132
+415,,,"Shrinath Puram, Kota - RSPCB",134
+416,,Nagaur,"Karni Colony, Nagaur - RSPCB",114
+417,,Pali,"Indira Colony Vistar, Pali - RSPCB",142
+418,,Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",111
+419,,Rajsamand,"Dhoinda, Rajsamand - RSPCB",82
+420,,Sawai Madhopur,"Sahu Nagar, Sawai Madhopur - RSPCB",132
+421,,Sikar,"Radhakishan Pura, Sikar - RSPCB",86
+422,,Sirohi,"Vedhaynath Colony, Sirohi - RSPCB",106
+423,,Sri Ganganagar,"Old City, Sri Ganganagar - RSPCB",161
+424,,Tonk,"Shastri Nagar, Tonk - RSPCB",94
+425,,Udaipur,"Ashok Nagar, Udaipur - RSPCB",145
+426,Sikkim,Gangtok,"Zero Point GICI, Gangtok - SSPCB",84.3
+427,Tamil Nadu,Ariyalur,"Keelapalur, Ariyalur - TNPCB",55
+428,,Chengalpattu,"Crescent University, Chengalpattu - TNPCB",64
+429,,Chennai,"Alandur Bus Depot, Chennai - CPCB",50
+430,,,"Arumbakkam, Chennai - TNPCB",39
+431,,,"Gandhi Nagar_Ennore, Chennai - TNPCB",84.3
+432,,,"Kodungaiyur, Chennai - TNPCB",84.3
+433,,,"Manali Village, Chennai - TNPCB",32
+434,,,"Manali, Chennai - CPCB",47
+435,,,"Perungudi, Chennai - TNPCB",53
+436,,,"Royapuram, Chennai - TNPCB",29
+437,,,"Velachery Res. Area, Chennai - CPCB",46
+438,,Coimbatore,"PSG College of Arts and Science, Coimbatore - TNPCB",54
+439,,,"SIDCO Kurichi, Coimbatore - TNPCB",44
+440,,Cuddalore,"Kudikadu, Cuddalore - TNPCB",84.3
+441,,,"Semmandalam, Cuddalore - TNPCB",84.3
+442,,Dindigul,"Mendonsa Colony, Dindigul - TNPCB",53
+443,,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",62
+444,,Hosur,"SIPCOT Phase-1, Hosur - TNPCB",84.3
+445,,Kanchipuram,"Kilambi, Kanchipuram - TNPCB",45
+446,,Karur,"Kamadenu Nagar, Karur - TNPCB",42
+447,,Madurai,"Uchapatti, Madurai - TNPCB",84.3
+448,,Nagapattinam,"Velippalayam, Nagapattinam - TNPCB",24
+449,,Ooty,"Bombay Castel, Ooty - TNPCB",60
+450,,Palkalaiperur,"Bharathidasan University, Palkalaiperur - TNPCB",39
+451,,Perundurai,"SIPCOT Industrial Park, Perundurai - TNPCB",40
+452,,Pudukottai,"SIPCOT Nathampannai, Pudukottai - TNPCB",54
+453,,Ramanathapuram,"Chalai Bazaar, Ramanathapuram - TNPCB",40
+454,,Ranipet,"VOC Nagar_SIPCOT, Ranipet - TNPCB",61
+455,,Salem,"Sona College of Technology, Salem - TNPCB",37
+456,,Thanjavur,"Parisutham Nagar, Thanjavur - TNPCB",43
+457,,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",23
+458,,Tiruchirappalli,"St Joseph College, Tiruchirappalli - TNPCB",89
+459,,Tirunelveli,"Municipal Corporation Office, Tirunelveli - TNPCB",30
+460,,Tirupur,"Kumaran College, Tirupur - TNPCB",48
+461,,Vellore,"Vasanthapuram, Vellore - TNPCB",89
+462,,Virudhunagar,"Collectorate Office, Virudhunagar - TNPCB",47
+463,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",81
+464,,,"Central University, Hyderabad - TSPCB",64
+465,,,"ECIL Kapra, Hyderabad - TSPCB",74
+466,,,"ICRISAT Patancheru, Hyderabad - TSPCB",87
+467,,,"IDA Pashamylaram, Hyderabad - TSPCB",84.3
+468,,,"IITH Kandi, Hyderabad - TSPCB",65
+469,,,"Kokapet, Hyderabad - TSPCB",125
+470,,,"Kompally Municipal Office, Hyderabad - TSPCB",70
+471,,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",81
+472,,,"New Malakpet, Hyderabad - TSPCB",62
+473,,,"Ramachandrapuram, Hyderabad - TSPCB",89
+474,,,"Sanathnagar, Hyderabad - TSPCB",64
+475,,,"Somajiguda, Hyderabad - TSPCB",71
+476,,,"Zoo Park, Hyderabad - TSPCB",112
+477,Tripura,Agartala,"Bardowali, Agartala - Tripura SPCB",79
+478,,,"Kunjaban, Agartala - Tripura SPCB",84.3
+479,Uttar Pradesh,Agra,"Manoharpur, Agra - UPPCB",50
+480,,,"Rohta, Agra - UPPCB",34
+481,,,"Sanjay Palace, Agra - UPPCB",116
+482,,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",63
+483,,,"Shahjahan Garden, Agra - UPPCB",72
+484,,,"Shastripuram, Agra - UPPCB",59
+485,,Baghpat,"New Collectorate, Baghpat - UPPCB",84.3
+486,,,"Sardar Patel Inter College, Baghpat - UPPCB",90
+487,,Bareilly,"Civil Lines, Bareilly - UPPCB",64
+488,,Bareilly,"Rajendra Nagar, Bareilly - UPPCB",25
+489,,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",89
+490,,Firozabad,"Nagla Bhau, Firozabad - UPPCB",49
+491,,Firozabad,"Vibhab Nagar, Firozabad - UPPCB",43
+492,,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",189
+493,,Ghaziabad,"Loni, Ghaziabad - UPPCB",182
+494,,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",142
+495,,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",121
+496,,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",96
+497,,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",82
+498,,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",115
+499,,Hapur,"Anand Vihar, Hapur - UPPCB",82
+500,,Jhansi,"Shivaji Nagar, Jhansi - UPPCB",48
+501,,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",94
+502,,Kanpur,"IITK, Kanpur - IITK",84.3
+503,,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",86
+504,,Kanpur,"Nehru Nagar, Kanpur - UPPCB",39
+505,,Khurja,"Kalindi Kunj, Khurja - UPPCB",98
+506,,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",83
+507,,Lucknow,"Gomti Nagar, Lucknow - UPPCB",68
+508,,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",127
+509,,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",75
+510,,Lucknow,"Lalbagh, Lucknow - CPCB",125
+511,,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",94
+512,,Meerut,"Ganga Nagar, Meerut - UPPCB",72
+513,,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",61
+514,,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",69
+515,,Moradabad,"Buddhi Vihar, Moradabad - UPPCB",40
+516,,Moradabad,"Eco Herbal Park, Moradabad - UPPCB",83
+517,,Moradabad,"Employment Office, Moradabad - UPPCB",46
+518,,Moradabad,"Jigar Colony, Moradabad - UPPCB",55
+519,,Moradabad,"Kashiram Nagar, Moradabad - UPPCB",45
+520,,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",84.3
+521,,Moradabad,"Transport Nagar, Moradabad - UPPCB",57
+522,,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",83
+523,,Noida,"Sector - 125, Noida - UPPCB",84.3
+524,,Noida,"Sector - 62, Noida - IMD",99
+525,,Noida,"Sector-1, Noida - UPPCB",107
+526,,Noida,"Sector-116, Noida - UPPCB",87
+527,,Prayagraj,"Jhunsi, Prayagraj - UPPCB",66
+528,,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",40
+529,,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",38
+530,,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",77
+531,,Varanasi,"Bhelupur, Varanasi - UPPCB",35
+532,,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",41
+533,,Varanasi,"Maldahiya, Varanasi - UPPCB",61
+534,,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",84.3
+535,Uttarakhand,Dehradun,"Doon University, Dehradun - UKPCB",74
+536,,Kashipur,"Govt. Girls Inter College, Kashipur - UKPCB",36
+537,,Rishikesh,"Shivaji Nagar, Rishikesh - UKPCB",52
+538,West Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",235
+539,,Asansol,"Evelyn Lodge, Asansol - WBPCB",166
+540,,Asansol,"Mahabir Colliery, Asansol - WBPCB",160
+541,,Asansol,"Trivenidevi Bhalotia College, Asansol - WBPCB",203
+542,,Barrackpore,"SVSPA Campus, Barrackpore - WBPCB",140
+543,,Durgapur,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",169
+544,,Durgapur,"PCBL Residential Complex, Durgapur - WBPCB",140
+545,,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",254
+546,,Haldia,"Priyambada Housing Estate, Haldia - WBPCB",94
+547,,Howrah,"Belur Math, Howrah - WBPCB",114
+548,,Howrah,"Botanical Garden, Howrah - WBPCB",115
+549,,Howrah,"Dasnagar, Howrah - WBPCB",145
+550,,Howrah,"Ghusuri, Howrah - WBPCB",105
+551,,Howrah,"Padmapukur, Howrah - WBPCB",149
+552,,Kolkata,"Ballygunge, Kolkata - WBPCB",111
+553,,Kolkata,"Bidhannagar, Kolkata - WBPCB",72
+554,,Kolkata,"Fort William, Kolkata - WBPCB",102
+555,,Kolkata,"Jadavpur, Kolkata - WBPCB",84
+556,,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",98
+557,,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",92
+558,,Kolkata,"Victoria, Kolkata - WBPCB",110
+559,,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",84.3
