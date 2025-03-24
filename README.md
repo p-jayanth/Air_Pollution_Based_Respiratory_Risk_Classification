@@ -74,3 +74,7 @@ Use Postman or a similar tool to test the deployed Lambda function. Send a POST 
 
 ![Screenshot 2025-03-24 140827](https://github.com/user-attachments/assets/4d56fbb1-a599-4d27-b1b3-e0d172f562b1)
 
+Credit
+
+This project is inspired by the work of siddhardhan23. The original project, deploy-ml-model-aws-lambda-docker-main, served as the foundation for this implementation.
+
